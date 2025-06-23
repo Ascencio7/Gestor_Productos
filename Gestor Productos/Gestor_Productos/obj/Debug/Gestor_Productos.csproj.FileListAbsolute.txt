@@ -1,0 +1,8 @@
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\Gestor Productos\Gestor_Productos\bin\Debug\Gestor_Productos.exe.config
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\Gestor Productos\Gestor_Productos\bin\Debug\Gestor_Productos.exe
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\Gestor Productos\Gestor_Productos\bin\Debug\Gestor_Productos.pdb
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\Gestor Productos\Gestor_Productos\obj\Debug\Gestor_Productos.csproj.AssemblyReference.cache
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\Gestor Productos\Gestor_Productos\obj\Debug\Gestor_Productos.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\Gestor Productos\Gestor_Productos\obj\Debug\Gestor_Productos.exe
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\Gestor Productos\Gestor_Productos\obj\Debug\Gestor_Productos.pdb
+C:\Users\Vladimir Ascencio\OneDrive\Escritorio\Gestor Productos\Gestor_Productos\obj\Debug\Gestor_Productos.exe.config
